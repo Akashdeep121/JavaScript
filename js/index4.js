@@ -36,3 +36,11 @@ let StMarks = {
     Anoop: 78
 }
 console.log(StMarks)
+
+function findName(){
+
+}
+console.log(typeof findName)
+
+let data = new Date()
+console.log(typeof date)

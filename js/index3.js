@@ -29,3 +29,12 @@ const fruit = 'Apple'
 const arr1 = [12,23,12,53,3]
 // arr1.push(45)
 console.log(arr1)
+
+/*
+Most common programing case types
+
+1. camel Case 
+2. kebab-case
+3. snake_case
+4. PascalCase
+*/

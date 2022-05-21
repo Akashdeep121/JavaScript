@@ -16,3 +16,13 @@ console.log(arr.length, (typeof arr))
 
 let i = 75
 console.log(i.toString())
+
+let number = parseFloat('34.098')
+
+console.log(number.toFixed(2), (typeof number))
+
+// type coercion
+let mystr = "698"
+let mynum = 34
+
+console.log(mystr + mynum)
